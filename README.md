@@ -13,7 +13,7 @@ Build a randomized Tetris board, display it to the user, and count the number of
 - Based on those three arguments, generate a board of the appropriate dimensions and randomly place the input number of blocks on the board.
 - Display this board to the user.
 - Finally, the app should display a count of the number of distinct tetris pieces displayed the random board.
-- For the purposes of this project, a tetris piece is any collect of 1 or more blocks that are all connected with one another at least one of their 4 sides (diagonals don't count).
+- For the purposes of this project, a tetris piece is any collection of 1 or more blocks that are all connected with one another on at least one of their 4 sides (diagonals don't count).
 
 ### Example 1
 Input = ```{
