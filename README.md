@@ -16,7 +16,7 @@ Build a randomized Tetris board, display it to the user, and count the number of
 - For the purposes of this project, a tetris piece is any collect of 1 or more blocks that are all connected with one another at least one of their 4 sides (diagonals don't count).
 
 ### Example 1
-input = ```{
+Input = ```{
   width: 4,
   height: 3,
   squares: 7
@@ -26,7 +26,7 @@ input = ```{
 
 
 ### Example 2
-input = ```{
+Input = ```{
   width: 12,
   height: 8,
   squares: 20
@@ -49,4 +49,4 @@ input = ```{
 - When you're done, please replace this README with a few sentences on how to run the app, and if there's anything you would like us to know about the task. The more communication the better!
 
 If you have any questions please don't hesitate to email or call, can't wait to see what you come up with!
-- The Altru Team
+- *The Altru Team*
